@@ -1,0 +1,12 @@
+
+name: montopsql
+channels:
+  - nodefaults
+  - conda-forge
+dependencies:
+  - docker-compose
+  - pip
+  - poetry
+  - pymongo
+  - psycopg2
+  - sqlalchemt
